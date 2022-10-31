@@ -9,4 +9,4 @@
 
 ### What I do
 
-My day to day is writing PHP/Laravel, Typescript/Javascript, Golang and Rust. I'm also working hard in my spare time to make open-source tools/libraries and sharing my technical knowledge on [Viblo](https://viblo.asia).
+My day to day is writing PHP/Laravel, Typescript/Javascript, Golang and Rust. I'm also working hard in my spare time to make open-source tools/libraries and sharing my technical knowledge on [Viblo](https://viblo.asia/u/huukimit).
