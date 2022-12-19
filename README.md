@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kim</h1>
 <h3 align="center">Fullstack Software Engineer at Sun* working on Viblo</h3>
 
-<p align="center"><a href="https://buymeacoff.ee/kimyvgy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" style="width: 200px !important"></a></p>
+<p align="center">
+  <a href="https://kimyvgy.webee.asia" target="_blank" title="Donate with: Paypal, Momo, Buymeacoffee">
+    <img src="https://user-images.githubusercontent.com/13513658/208368616-f20301e6-61d5-449b-aa87-5dda17b273b7.png">
+  </a>
+</p>
 
 ### :compass: Social Links
 * Twitter: [**@kimyvgy**](https://twitter.com/kimyvgy)
