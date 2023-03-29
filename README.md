@@ -9,7 +9,7 @@
 
 ### :compass: Social Links
 * Twitter: [**@kimyvgy**](https://twitter.com/kimyvgy)
-* Email: [**kimyvgy@gmail.com**](mailto:kimyvgy@gmail.com)
+* Email: [**kimnh@webee.asia**](mailto:kimnh@webee.asia)
 
 ### What I do
 
