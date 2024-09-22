@@ -8,18 +8,18 @@ I'm Kim - a senior fullstack software engineer at Sun*. I play with a primary ro
 
 Beyond my professional roles, I'm a passionate open-source contributor and content creator. I actively participate in open-source projects on GitHub, leveraging my skills and knowledge to give back to the tech community.
 
-I also enjoy sharing my technical insights through stories on Viblo. Currently, I'm creating [@DevSuccess101](https://devsuccess101.com), where I share knowledge through video content on my [YouTube](https://l.devsuccess101.com/youtube) and [TikTok](https://l.devsuccess101.com/tiktok) channel.
+I also enjoy sharing my technical insights through stories on Viblo. Currently, I'm creating [@PheLab](https://phelab.com), where I share knowledge through video content on my [YouTube](https://l.phelab.com/youtube) and [TikTok](https://l.phelab.com/tiktok) channel.
 
 ## Connect with me
 
 - Twitter: [@kimyvgy](https://twitter.com/kimyvgy)
-- Email: [kimnh@devsuccess101.com](mailto:kimnh@devsuccess101.com)
-- Tiktok: https://l.devsuccess101.com/tiktok
-- Viblo: https://l.devsuccess101.com/viblo
-- GitHub: https://l.devsuccess101.com/github
-- Facebook: https://l.devsuccess101.com/facebook
-- Discord: https://l.devsuccess101.com/discord
-- Website: https://l.devsuccess101.com/web
+- Email: [kimyvgy@phelab.com](mailto:kimyvgy@phelab.com)
+- Tiktok: https://l.phelab.com/tiktok
+- Viblo: https://l.phelab.com/viblo
+- GitHub: https://l.phelab.com/github
+- Facebook: https://l.phelab.com/facebook
+- Discord: https://l.phelab.com/discord
+- Website: https://l.phelab.com/web
 
 Let's connect and collaborate to create something amazing! 😊
 
@@ -29,5 +29,4 @@ Let's connect and collaborate to create something amazing! 😊
 
 If you find my work valuable, consider supporting me. Your support is greatly appreciated!
 
-- Patreon: https://patreon.com/devsuccess101
 - Paypal: https://paypal.me/kimyvgy
