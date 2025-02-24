@@ -8,18 +8,18 @@ I'm Kim - a senior fullstack software engineer at Sun*. I play with a primary ro
 
 Beyond my professional roles, I'm a passionate open-source contributor and content creator. I actively participate in open-source projects on GitHub, leveraging my skills and knowledge to give back to the tech community.
 
-I also enjoy sharing my technical insights through stories on Viblo. Currently, I'm creating [@PheLab](https://phelab.com), where I share knowledge through video content on my [YouTube](https://l.phelab.com/youtube) and [TikTok](https://l.phelab.com/tiktok) channel.
+I also enjoy sharing my technical insights through stories on Viblo. Currently, I'm creating [@Teguru](https://teguru.com), where I share knowledge through video content on my [YouTube](https://l.teguru.com/youtube) and [TikTok](https://l.teguru.com/tiktok) channel.
 
 ## Connect with me
 
 - Twitter: [@kimyvgy](https://twitter.com/kimyvgy)
-- Email: [kimyvgy@phelab.com](mailto:kimyvgy@phelab.com)
-- Tiktok: https://l.phelab.com/tiktok
-- Viblo: https://l.phelab.com/viblo
-- GitHub: https://l.phelab.com/github
-- Facebook: https://l.phelab.com/facebook
-- Discord: https://l.phelab.com/discord
-- Website: https://l.phelab.com/web
+- Email: [kimyvgy@teguru.com](mailto:kimyvgy@teguru.com)
+- Tiktok: https://l.teguru.com/tiktok
+- Viblo: https://l.teguru.com/viblo
+- GitHub: https://l.teguru.com/github
+- Facebook: https://l.teguru.com/facebook
+- Discord: https://l.teguru.com/discord
+- Website: https://l.teguru.com/web
 
 Let's connect and collaborate to create something amazing! 😊
 
